@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SearchBox = ({earchfield, searchChange}) => {
+const SearchBox = ({ searchfield, searchChange}) => {
 
 // s
 
