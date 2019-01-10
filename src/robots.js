@@ -1,7 +1,7 @@
 export const robots = [
   {
     id: 1,
-    name: 'andrei',
+    name: 'wheein',
     username: 'bret',
     email: 'sincere@jan.com'
   },
@@ -13,7 +13,7 @@ export const robots = [
   },
   {
     id: 3,
-    name: 'wheein',
+    name: 'jimin',
     username: 'kiyomi',
     email: 'lovelove@gmail.com'
   },
@@ -31,31 +31,31 @@ export const robots = [
   },
   {
     id: 6,
-    name: 'fillingood',
+    name: 'rm',
     username: 'jazzy',
     email: 'sappy@dazzed.com'
   },
   {
     id: 7,
-    name: 'fingerprice',
+    name: 'jungkook',
     username: 'gitbash',
     email: 'halloo@bmail.com'
   },
   {
     id: 8,
-    name: 'labor',
+    name: 'taehyung',
     username: 'sucks',
     email: 'butiwantmoney@hireme.com'
   },
   {
     id: 9,
-    name: 'playtennis',
+    name: 'jungyeon',
     username: 'wouldbfun',
     email: 'becomebarista@coffeebean.com'
   },
   {
     id: 10,
-    name: 'perfect',
+    name: 'blockchain',
     username: 'awesome',
     email: 'ph-1@goodmusic.com'
   }
